@@ -5,9 +5,6 @@ Projects done in colab imported to this repository
 * ML_Python_Boston_Dataset.ipynb
 * ML_Python_IRIS_Dataset.ipynb
 
-**NLP**
-* NLTK_Text Analysis.ipynb
-
 **PySpark**
 * PySpark-EDA.ipynb
 * Pyspark_Admission_Prediction.ipynb
