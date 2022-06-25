@@ -11,6 +11,9 @@ Projects done in colab imported to this repository
 * Spark_DataFrame_API_Project.ipynb
 * Spark DataFrame API notebook
 
+**NLP**
+* GPT-2
+
 **Speech Recognition**
 * Speech_Emotion_Recognition_with_librosa.ipynb
 * Transfer_Learning_Computer_Vision.ipynb
