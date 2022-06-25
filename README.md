@@ -1,4 +1,4 @@
-# colab
+# Colab
 Projects done in colab imported to this repository
 
 **Machine Learning Projects**
