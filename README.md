@@ -17,3 +17,4 @@ Projects done in colab imported to this repository
 **Speech Recognition**
 * Speech_Emotion_Recognition_with_librosa.ipynb
 * Transfer_Learning_Computer_Vision.ipynb
+* Pre_trained_PyTorchVideo_classification_model_Torch_Hub.ipynb
